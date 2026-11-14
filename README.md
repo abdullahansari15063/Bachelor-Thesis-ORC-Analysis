@@ -31,6 +31,7 @@ Research Team
 
 This bachelor's thesis was conducted as a group research project by:
 SUPERVISOR: Engr. M. Atif Qaim Khani , CO-SUPERVISOR: Engr. M. Waqas 
+
 Abdullah Ansari
 Bilal Hussain
 Sarim Shahid
